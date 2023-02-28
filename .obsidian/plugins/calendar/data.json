@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": false,
+  "weekStart": "monday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "z_Archive/Templates/Weekly Summary",
+  "weeklyNoteFolder": "Daily Balance/Weekly Summary",
+  "localeOverride": "system-default"
+}
